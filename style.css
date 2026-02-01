@@ -1,0 +1,24 @@
+#player {
+    display: flex;
+    width: 800px;
+    height: 600px;
+    box-shadow: 0 0 15px black;
+    flex-direction: column;
+}
+.button-bar {
+    display: flex;
+    background-color: black;
+}
+.fullscreen {
+    margin-left: auto !important;
+}
+.button {
+    height: 36px;
+    width: 36px;
+    margin-left: 3px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    background-color: transparent;
+    font-size: 18px;
+}
