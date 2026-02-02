@@ -7,7 +7,7 @@
 
 ## Запуск
 
-Запуск сайта произведён на GitHub Pages. Ссылка на сайт: [*тык*]()
+Запуск сайта произведён на GitHub Pages. Ссылка на сайт: [https://a1exuus.github.io/web_player/](https://a1exuus.github.io/web_player/)
 
 В случае если вы хотите запустить сайт локально, то вам понадобится данный туториал: [*тык*](https://texterra.ru/blog/kak-zapustit-sayt-na-lokalnom-kompyutere.html)
 
